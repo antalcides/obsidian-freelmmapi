@@ -1,0 +1,9 @@
+{
+  "id": "freellmapi-connector",
+  "name": "FreeLLMAPI Connector",
+  "version": "1.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Conecta Obsidian con FreeLLMAPI: chat con IA en la barra lateral, resúmenes, explicaciones y comandos de escritura usando modelos gratuitos.",
+  "author": "tu-usuario",
+  "isDesktopOnly": false
+}
